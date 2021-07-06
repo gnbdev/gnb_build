@@ -4,6 +4,5 @@ Linux_x86_64 macOS FreeBSD OpenBSD  OpenWRT 树莓派的启动脚本放在 sh/ �
 
 详细的部署文档放在 docs 目录下
 
-Windows 用户可以到 https://gitee.com/gnbdev/GNBFrontend/releases 整合好的GUI前端，通过图形界面配置与启动GNB
-
+Windows 版本需要先到 if_drv/ 找到虚拟网卡驱动并安装。
 
